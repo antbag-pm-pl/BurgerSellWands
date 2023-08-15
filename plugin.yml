@@ -1,7 +1,7 @@
 name: BurgerSellWands
 main: Heisenburger69\BurgerSellWands\Main
 version: 1.0.0
-api: 3.0.0
+api: 5.0.0
 author: Heisenburger69
 description: Plugin implements fully customizable BurgerSellWands for PMMP
 depend: ["EconomyAPI"]
